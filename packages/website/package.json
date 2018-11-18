@@ -30,6 +30,7 @@
     "intersection-observer": "^0.5.1",
     "nuxt": "~2.1.0",
     "nuxt-i18n": "^5.4.2",
+    "prismjs": "^1.15.0",
     "vue-disqus": "^3.0.5",
     "vue-lazyload": "^1.2.6",
     "vue-scrollto": "^2.13.0",
